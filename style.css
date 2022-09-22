@@ -364,3 +364,36 @@ footer{
   left: 1326px;
   top: 700px;
 }
+.menu{
+  position: absolute; 
+  width: 129px;
+  height: 29px;
+  left: 1187px;
+  top: 10px;
+}
+.menu_title{
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  color: white;
+}
+.menu1{
+  position: absolute; 
+  width: 154px;
+  height: 29px;
+  left: 1320px;
+  top: 10px;
+}
+.menu2{
+  position: absolute; 
+  width: 95px;
+  height: 29px;
+  left: 1478px;
+  top: 10px;
+}
+.vis {
+  text-decoration:none;
+  color: white;
+}
